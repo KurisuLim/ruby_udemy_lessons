@@ -1,3 +1,5 @@
+# Print has no line breaker
+
 puts "Hello"
 puts "World"
 

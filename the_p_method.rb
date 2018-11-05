@@ -1,3 +1,5 @@
+# p display strings with quotations and no quotes 
+
 puts "Steven Seagal"
 
 # Display as string
