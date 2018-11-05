@@ -18,3 +18,9 @@ puts name + " " + last_name
 puts asian
 puts age # 31
 puts age + 5 # 36
+
+favorite_number = 4
+puts favorite_number
+
+favorite_number = "four"
+puts favorite_number
