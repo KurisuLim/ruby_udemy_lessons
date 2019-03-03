@@ -1,0 +1,9 @@
+shopping_list = {bananas: 5, oranges: 10, carrots: 3, crackers: 15}
+vegan_shopping_list = {}
+
+# chekcs the number of keys
+p shopping_list.length # 4 keys
+p vegan_shopping_list.length # 0
+
+p shopping_list.empty? # false
+p vegan_shopping_list.empty? # true
